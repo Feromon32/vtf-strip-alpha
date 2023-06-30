@@ -1,4 +1,4 @@
 # vtf-strip-alpha
-by ficool
 
+deletes all empty alphas in the materials folder, if any
 example in terminal: vtfstripalpha -recursivedir <vtf/path>
